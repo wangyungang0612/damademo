@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="fragment_bg">#F4F4F4</color>
+    <color name="print_log_bg">#313C4E</color>
+    <color name="print_title_bg">#1971B8</color>
+    <color name="white_line">#fff</color>
+    <color name="footer_bg">#a9b1b5</color>
+    <color name="black">#000</color>
+    <color name="item_1">#CFDFE6</color>
+    <color name="item_2">#ffffff</color>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/comapi/comapi.iml" filepath="$PROJECT_DIR$/comapi/comapi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/damage.iml" filepath="$PROJECT_DIR$/damage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/print/print.iml" filepath="$PROJECT_DIR$/print/print.iml" />
+      <module fileurl="file://$PROJECT_DIR$/taox/taox.iml" filepath="$PROJECT_DIR$/taox/taox.iml" />
+    </modules>
+  </component>
+</project>
